@@ -10,7 +10,7 @@ Hello there! I'm [Rajabov Shohjahon], a passionate Python developer with experti
 - **Web Development:** Django, HTML, CSS
 - **Databases:** PostgreSQL, SQLite
 - **Version Control:** Git, GitHub
-- **Other:** [Add any other relevant skills here]
+- **Other:** [and ...]
 
 ## Contact
 
