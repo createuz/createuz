@@ -1,12 +1,19 @@
 # [![Adityakrishnan header](https://github.com/adi-code22/adi-code22/blob/main/files/Adityakrishnan.png?raw=true)](https://www.linkedin.com/in/adityakrishnan007/)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![GitHub Adityakrishnan](https://img.shields.io/github/followers/adi-code22?label=follow&style=social)](https://github.com/adi-code22)
-[![github.png](..%2F..%2FTelegramBots%2FAllSavernBot%2Fstatic%2Fgithub.png)](https://github.com/createuz)
-[![linkedin.png](..%2F..%2FTelegramBots%2FAllSavernBot%2Fstatic%2Flinkedin.png)](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)
-[![telegram.png](..%2F..%2FTelegramBots%2FAllSavernBot%2Fstatic%2Ftelegram.png)](https://t.me/tmcoderr)
-[![twitter.png](..%2F..%2FTelegramBots%2FAllSavernBot%2Fstatic%2Ftwitter.png)](https://twitter.com/Rajabovmy)
-[![instagram.png](..%2F..%2FTelegramBots%2FAllSavernBot%2Fstatic%2Finstagram.png)](https://www.instagram.com/rajabovmy/)
-[![facebook.png](..%2F..%2FTelegramBots%2FAllSavernBot%2Fstatic%2Ffacebook.png)](https://www.facebook.com/profile.php?id=100078686100407)
+
+<p align="center">
+  <a href="https://badge.fury.io/js/react-social-media-embed" target="_blank" rel="noopener noreferrer"><img src="https://badge.fury.io/js/react-social-media-embed.svg" alt="npm Version" /></a>&nbsp;
+  <a href="https://icons8.com/icon/ZRiAFreol5mE/instagram" target="_blank" rel="noopener noreferrer"><img src="https://badge.fury.io/js/react-social-media-embed.svg" alt="npm Version" /></a>&nbsp;
+  <a href="https://github.com/justinmahar/react-social-media-embed/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Source-success" alt="View project on GitHub" /></a>&nbsp;
+  <a href="https://github.com/justinmahar/react-social-media-embed/actions?query=workflow%3ADeploy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/justinmahar/react-social-media-embed/workflows/Deploy/badge.svg" alt="Deploy Status" /></a>&nbsp;
+  <a href="https://github.com/sponsors/justinmahar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/></a>
+  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><img src="static/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://t.me/tmcoderr" target="_blank" rel="noopener noreferrer"><img src="static/telegram.png" alt="Telegram" /></a>
+  <a href="https://twitter.com/Rajabovmy" target="_blank" rel="noopener noreferrer"><img src="static/twitter.png" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/rajabovmy/" target="_blank" rel="noopener noreferrer"><img src="static/instagram.png" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100078686100407" target="_blank" rel="noopener noreferrer"><img src="static/facebook.png" alt="Facebook" /></a>
+</p>
 
  
 ## AdityA here,   👋
