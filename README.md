@@ -20,10 +20,10 @@
 
 ## Contact
 
-- **Contact me, let's create great things together!**
-    - **Email:** [tmcoderr@gmail.com](mailto:tmcoderr@gmail.com)
-    - **GitHub:** [GitHub Profile](https://github.com/createuz)
-    - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/)
+- **👤 Contact me, let's create great things together!**
+- **Email:** [tmcoderr@gmail.com](mailto:tmcoderr@gmail.com)
+- **GitHub:** [GitHub Profile](https://github.com/createuz)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/)
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=createuz&rank=-C,-A" alt="createuz" /> </p>
 
