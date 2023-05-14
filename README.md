@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/github/followers/createuz?label=follow&style=social" alt="GitHub Followers">
 </p>
 <hr>
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
-
 ## Skills and Expertise
 
 - **💻 Languages:** Python
