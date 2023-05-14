@@ -13,9 +13,9 @@
 ## Skills and Expertise
 
 - **💻 Languages:** Python
-- **🌐 Web Development:** Django, Flask, HTML, CSS
-- **🗄️ Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-- **📇 Version Control:** Git, GitHub, GitLab
+- **🌐 Web:** Django, Flask, HTML, CSS
+- **🗄️ Databases:** PostgreSQL, MySQL, SQLite, MongoDB, (🐳 Docker)
+- **📇 VCS:** Git, GitHub, GitLab
 - **☁️ Hosting:** Heroku, AWS, DigitalOcean
 
 ## Contact
@@ -24,5 +24,7 @@
     - **Email:** [tmcoderr@gmail.com](mailto:tmcoderr@gmail.com)
     - **GitHub:** [GitHub Profile](https://github.com/createuz)
     - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/)
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=createuz&rank=-C,-A" alt="createuz" /> </p>
 
 <hr>
