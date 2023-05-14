@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
 
 ## Skills and Expertise
 
