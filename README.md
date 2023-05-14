@@ -10,16 +10,6 @@ on creating high-quality software solutions.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💻 Software Developer Engineer at **Baton Systems**
-- 💻 Ex-Data Analyst Intern at **Ernst & Young (EY)**.
-- 🔭 Volunteering as **CEO** of [IEDC CCE](https://iedc.cce.edu.in/) | [GDSC Lead](https://gdsc-cce.netlify.app/#/) |
-  Christ College of Engineering.
-- 📫 How to reach me:
-- 🌱 Now learning Advanced Computer Architecture and Spring Boot.
-- 👯 I’m looking forward to collaborate on Flutter and NLP Projects.
-- 💬 Ask me about Python Competitive Programming.
-- ⚡ Fun fact: I ❤️ to code.
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
