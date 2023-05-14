@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/github/followers/createuz?label=follow&style=social" alt="GitHub Followers">
 </p>
 <hr>
+
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
+
 ## Skills and Expertise
 
 - **💻 Languages:** Python
@@ -12,8 +15,6 @@
 - **🗄️ Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 - **📇 Version Control:** Git, GitHub, GitLab
 - **☁️ Hosting:** Heroku, AWS, DigitalOcean
-
-<img align="right" alt="GIF" src="https://github-readme-stats-eight-theta.vercel.app/api?username=createuz&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff"/>
 
 ## Contact
 
