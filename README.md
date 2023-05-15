@@ -22,10 +22,13 @@
 
 <div style="display: flex; flex-direction: row-reverse; justify-content: space-between; align-items: center;">
 <img  align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=createuz&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff" style="max-width: 100%;" />
-<p align="left">
-    <strong>Contact me, let's create great things together!</strong><br>
-    <a href="mailto:tmcoderr@gmail.com">Email</a> |
-    <a href="https://github.com/createuz">GitHub Profile</a> |
-    <a href="https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/">LinkedIn Profile</a>
-</p>
+
+## Contact
+- **Contact me, let's create great things together!**
+
+- **Email:** [tmcoderr@gmail.com](mailto:tmcoderr@gmail.com)
+
+- **GitHub:** [GitHub Profile](https://github.com/createuz)
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/)
 </div>
