@@ -9,10 +9,6 @@
 <p align="center">
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
 </p>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=createuz&rank=-C,-A" alt="createuz" style="max-width: 53%;" />
-
-<div style="display: flex; flex-direction: row-reverse; justify-content: space-between; align-items: center;">
-
 
 ## Skills and Expertise
 
