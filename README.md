@@ -12,8 +12,8 @@
 
 ## Skills and Expertise
 
-- **💻 Languages:** Python
-- **🌐 Web:** Django, Flask, HTML, CSS
+- **💻 Languages:** Python*
+- **🌐 Web:** Django, Rest API, Flask, HTML, CSS
 - **🗄️ Databases:** PostgreSQL, MySQL, SQLite, MongoDB, (🐳 Docker)
 - **📇 VCS:** Git, GitHub, GitLab
 - **☁️ Hosting:** Heroku, AWS, DigitalOcean
