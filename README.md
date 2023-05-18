@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/createuz?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://github.com/justinmahar/react-social-media-embed/workflows/Deploy/badge.svg" alt="Deploy Status" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=createuz" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/createuz?label=follow&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/createuz?lc abel=follow&style=social" alt="GitHub Followers">
 </p>
 <hr>
 
