@@ -19,7 +19,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?color=%23181717&logo=telegram&logoColor=white)](https://t.me/tmcoderr) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?color=%23181717&logo=instagram&logoColor=white)](https://www.instagram.com/rajabovmy/) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?color=%23181717&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078686100407) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?color=%23181717&logo=twitter&logoColor=white)](https://twitter.com/Rajabovmy)
 
 **👤 Contact me, let's create great things together!**
+
 <hr>
+
 # 💻 Technical Skills
 
 ![](https://img.shields.io/badge/💻-information?color=black)
