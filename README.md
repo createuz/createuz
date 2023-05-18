@@ -7,6 +7,11 @@
   <a href="https://hits.sh/github.com/createuz/"><img alt="Hits" src="https://hits.sh/github.com/createuz.svg?extraCount=1623&color=007ec6&labelColor=233"/></a><hr>
 </a>
 
+<p align="center">
+<img width="95%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
+</p>
+
+  
 # 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?color=%23181717&logo=github&logoColor=white)](https://github.com/createuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=%23181717&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?color=%23181717&logo=leetcode&logoColor=white)](https://leetcode.com/Pythoncoders/) [![Email](https://img.shields.io/badge/tmcoderr@gmail.com-%230077B5.svg?color=%23181717&logo=google&logoColor=white)](mailto:tmcoderr@gmail.com)
