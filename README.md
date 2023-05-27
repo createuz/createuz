@@ -59,5 +59,3 @@
 
 <p align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createuz&theme=tokyonight">
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=createuz&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/createuz)
