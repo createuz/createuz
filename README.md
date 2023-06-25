@@ -16,11 +16,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?color=%23181717&logo=github&logoColor=white)](https://github.com/createuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=%23181717&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?color=%23181717&logo=leetcode&logoColor=white)](https://leetcode.com/Pythoncoders/) [![Email](https://img.shields.io/badge/tmcoderr@gmail.com-%230077B5.svg?color=%23181717&logo=google&logoColor=white)](mailto:tmcoderr@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?color=%23181717&logo=telegram&logoColor=white)](https://t.me/tmcoderr) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?color=%23181717&logo=instagram&logoColor=white)](https://www.instagram.com/rajabovmy/) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?color=%23181717&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078686100407) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?color=%23181717&logo=twitter&logoColor=white)](https://twitter.com/Rajabovmy)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?color=%23181717&logo=telegram&logoColor=white)](https://t.me/tmcoderr) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?color=%23181717&logo=instagram&logoColor=white)](https://www.instagram.com/rajabovmy/) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?color=%23181717&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078686100407)
 
-- About My [Resume](https://github.com/createuz/createuz/blob/main/MyResume.pdf)
 
 **👤 Contact me, let's create great things together!**
+
+## My [Resume](https://github.com/createuz/createuz/blob/main/MyResume.pdf)
+
 
 <hr>
 
@@ -31,7 +33,8 @@
 
 ![](https://img.shields.io/badge/✔-information?color=black)
 ![Django](https://img.shields.io/badge/Django-informational?color=%23181717&style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-information?color=%23181717&style=flat&logo=django&logoColor=white)
+![DRF (Django REST Framework)](https://img.shields.io/badge/Django_REST-information?color=%23181717&style=flat&logo=django&logoColor=white)
+![Django RESTful API](https://img.shields.io/badge/Django_REST-information?color=%23181717&style=flat&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-information?color=%23181717&style=flat&logo=JSON%20web%20tokens)
 ![HTML5](https://img.shields.io/badge/HTML-information?color=%23181717&style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-information?color=%23181717&style=flat&logo=css3&logoColor=white)
