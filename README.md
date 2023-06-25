@@ -21,7 +21,7 @@
 
 **👤 Contact me, let's create great things together!**
 
-## My [Resume](https://github.com/createuz/createuz/blob/main/MyResume.pdf)
+## - My [Resume](https://github.com/createuz/createuz/blob/main/MyResume.pdf)
 
 
 <hr>
