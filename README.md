@@ -66,7 +66,7 @@
 <a href="https://github.com/createuz">
 <p align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createuz&theme=github_dark">
-<img align="left" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
-<img align="right" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark"><br>
+<img align="left" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
+<img align="right" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark"><br>
     </p>
 </a> 
