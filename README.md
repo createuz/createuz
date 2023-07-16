@@ -62,13 +62,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![GitLab](https://img.shields.io/badge/Gitlab-information?color=%23181717&style=flat&logo=gitlab&logoColor=white)
 
-<p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createuz&theme=tokyonight">
 
 <a href="https://github.com/createuz">
 <p align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createuz&theme=github_dark">
-<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
-<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark"><br>
+<img align="center" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
+<img align="center" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark"><br>
     </p>
 </a> 
