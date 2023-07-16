@@ -71,11 +71,11 @@
 
 <a href="https://github.com/createuz">
     <div style="display: flex;">
-        <div style="width: 50%;">
-            <img align="left" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
+        <div>
+            <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
         </div>
-        <div style="width: 50%;">
-            <img align="left" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark">
+        <div>
+            <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark">
         </div>
     </div>
 </a>
