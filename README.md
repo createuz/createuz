@@ -71,8 +71,9 @@
 
 <a href="https://github.com/createuz">
     <p>
-        <img align="left" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
-        <img align="right" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark">
+        <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=createuz&theme=github_dark">
+        <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createuz&theme=github_dark">
     </p>
 </a>
+
 
