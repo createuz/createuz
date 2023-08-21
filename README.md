@@ -13,13 +13,14 @@
 
 <hr>
 🔭 I am currently dedicated to improving my skills in Django and the Django REST Framework. I'm learning ways to build efficient and powerful web applications.
-<hr>
+
 🔍 I love diving deep into advanced Django concepts and discovering best practices. Continuous learning is my motto.
-<hr>
+
 🌟 I am actively looking for opportunities to collaborate on open source web development projects. I believe in the power of teamwork and shared knowledge.
-<hr>
+
 💬 Contact me at createuz.sh@gmail.com for any questions or to discuss potential collaboration. I am here to help! Let's create great things together!
 <hr>
+
 # 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?color=%23181717&logo=github&logoColor=white)](https://github.com/createuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=%23181717&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?color=%23181717&logo=leetcode&logoColor=white)](https://leetcode.com/Pythoncoders/) [![Email](https://img.shields.io/badge/tmcoderr@gmail.com-%230077B5.svg?color=%23181717&logo=google&logoColor=white)](mailto:tmcoderr@gmail.com)
