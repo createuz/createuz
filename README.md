@@ -4,22 +4,20 @@
   <img src="https://img.shields.io/github/followers/createuz?logo=github&style=plastic" alt="github" />
   <img src="https://komarev.com/ghpvc/?username=createuz" alt="Profile Views">
   <a href="https://wakatime.com/badge/user/d6958727-08bc-4e9e-8dab-32759734305d/project/eac16c31-6547-4071-8db1-a7e4717eeddc"><img src="https://wakatime.com/badge/user/d6958727-08bc-4e9e-8dab-32759734305d/project/eac16c31-6547-4071-8db1-a7e4717eeddc.svg" alt="wakatime"></a>
-  <a href="https://hits.sh/github.com/createuz/"><img alt="Hits" src="https://hits.sh/github.com/createuz.svg?extraCount=1623&color=007ec6&labelColor=233"/></a><hr>
 </a>
 
 <p align="center">
 <img width="80%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
 </p>
 
-<hr>
 🔭 I am currently dedicated to improving my skills in Django and the Django REST Framework. I'm learning ways to build efficient and powerful web applications.
+
 
 🔍 I love diving deep into advanced Django concepts and discovering best practices. Continuous learning is my motto.
 
 🌟 I am actively looking for opportunities to collaborate on open source web development projects. I believe in the power of teamwork and shared knowledge.
 
 💬 Contact me at createuz.sh@gmail.com for any questions or to discuss potential collaboration. I am here to help! Let's create great things together!
-<hr>
 
 # 🌐 Socials
 
