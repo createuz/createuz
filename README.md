@@ -3,7 +3,7 @@
 <a href="https://github.com/createuz?tab=followers">
   <img src="https://img.shields.io/github/followers/createuz?logo=github&style=plastic" alt="github" />
   <img src="https://komarev.com/ghpvc/?username=createuz" alt="Profile Views">
-  <a href="https://wakatime.com/badge/user/d6958727-08bc-4e9e-8dab-32759734305d/project/eac16c31-6547-4071-8db1-a7e4717eeddc"><img src="https://wakatime.com/badge/user/d6958727-08bc-4e9e-8dab-32759734305d/project/eac16c31-6547-4071-8db1-a7e4717eeddc.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/@d6958727-08bc-4e9e-8dab-32759734305d"><img src="https://wakatime.com/badge/user/d6958727-08bc-4e9e-8dab-32759734305d.svg" alt="Total time coded since May 12 2023" /></a>
 </a>
 
 <p align="center">
