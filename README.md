@@ -55,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/Docker-information?color=%23181717&style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?color=%23181717&style=flat&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-informational?color=%23181717&style=flat&logo=SQLite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQL-Alchemy-informational?color=%23181717&style=flat&logo=Alchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQL_Alchemy-informational?color=%23181717&style=flat&logo=Alchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Redis-informational?color=%23181717&style=flat&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Celery-informational?color=%23181717&style=flat&logo=celery&logoColor=white)
 
