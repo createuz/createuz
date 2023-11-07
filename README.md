@@ -21,9 +21,9 @@
 
 # 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?color=%23181717&logo=github&logoColor=white)](https://github.com/createuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=%23181717&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?color=%23181717&logo=leetcode&logoColor=white)](https://leetcode.com/Pythoncoders/) [![Email](https://img.shields.io/badge/tmcoderr@gmail.com-%230077B5.svg?color=%23181717&logo=google&logoColor=white)](mailto:tmcoderr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?color=%23181717&logo=github&logoColor=white)](https://github.com/createuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=%23181717&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohjahon-rajabov-8758b9272/) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?color=%23181717&logo=leetcode&logoColor=white)](https://leetcode.com/Pythoncoders/) [![Email](https://img.shields.io/badge/createuz.sh@gmail.com-%230077B5.svg?color=%23181717&logo=google&logoColor=white)](mailto:createuz.sh@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?color=%23181717&logo=telegram&logoColor=white)](https://t.me/tmcoderr) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?color=%23181717&logo=instagram&logoColor=white)](https://www.instagram.com/rajabovmy/) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?color=%23181717&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078686100407)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?color=%23181717&logo=telegram&logoColor=white)](https://t.me/tmcode) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?color=%23181717&logo=instagram&logoColor=white)](https://www.instagram.com/sh.coder/)
 
 
 **👤 Contact me, let's create great things together!**
@@ -41,22 +41,29 @@
 ![](https://img.shields.io/badge/✔-information?color=black)
 ![Django](https://img.shields.io/badge/Django-informational?color=%23181717&style=flat&logo=django&logoColor=white)
 ![DRF (Django REST Framework)](https://img.shields.io/badge/Django_REST-information?color=%23181717&style=flat&logo=django&logoColor=white)
-![Django RESTful API](https://img.shields.io/badge/Django_REST-information?color=%23181717&style=flat&logo=django&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful-API?color=%23181717&style=flat&logo=django&logoColor=white)
+![RESTful API](https://img.shields.io/badge/Jinja2-informational?color=%23181717&style=flat&logo=jinja&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-information?color=%23181717&style=flat&logo=JSON%20web%20tokens)
-![HTML5](https://img.shields.io/badge/HTML-information?color=%23181717&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-information?color=%23181717&style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-information?color=%23181717&style=flat&logo=bootstrap&logoColor=white)
+
+![](https://img.shields.io/badge/✔-information?color=black)
+![Django](https://img.shields.io/badge/Telegram_Bot_*-informational?color=%23181717&style=flat&logo=telegram&logoColor=white)
+![Django](https://img.shields.io/badge/aiogram-informational?color=%23181717&style=flat&logo=aiogram&logoColor=white)
+![Django](https://img.shields.io/badge/Pyrogram-informational?color=%23181717&style=flat&logo=pyrogram&logoColor=white)
+![Django](https://img.shields.io/badge/Asyncio-informational?color=%23181717&style=flat&logo=asyncio&logoColor=white)
 
 ![](https://img.shields.io/badge/✔-information?color=black)
 ![Docker](https://img.shields.io/badge/Docker-information?color=%23181717&style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?color=%23181717&style=flat&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-informational?color=%23181717&style=flat&logo=SQLite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-informational?color=%23181717&style=flat&logo=MongoDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQL-Alchemy-informational?color=%23181717&style=flat&logo=Alchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/Redis-informational?color=%23181717&style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/Celery-informational?color=%23181717&style=flat&logo=celery&logoColor=white)
 
 ![](https://img.shields.io/badge/✔-information?color=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-information?color=%23181717&style=flat&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-information?color=%23181717&style=flat&logo=Heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-information?color=%23181717&style=flat&logo=Amazon&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-information?color=%23181717&style=flat&logo=digitalOcean&logoColor=white)
+![AWS](https://img.shields.io/badge/PythonAnywhere-information?color=%23181717&style=flat&logo=PythonAnywhere&logoColor=white)
 
 ![](https://img.shields.io/badge/✔-information?color=black)
 ![Postman](https://img.shields.io/badge/Postman-informational?color=%23181717&style=flat&logo=postman&logoColor=white)
@@ -86,6 +93,3 @@
         </div>
     </div>
 </a>
-
-
-
